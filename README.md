@@ -1,0 +1,4 @@
+simpsonsrule
+============
+
+numerical integration
